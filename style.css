@@ -137,19 +137,5 @@ ul.main-menu li a.active {
   display:block;
 }
 
-/* CSS for centering the content */
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-/* CSS for the list */
-.collaborators-list {
-    text-align: center;
-    font-size: 18px;
-    line-height: 1.5;
-}
 
 
